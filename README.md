@@ -23,7 +23,7 @@
 - A Study of Performance and Security across VMs.pdf - *[Download](./A%20Study%20of%20Performance%20and%20Security%20across%20VMs.pdf)*
 - Performance Analysis Between RunC and Kata Container Runtime.pdf - *[Download](./Performance%20Analysis%20Between%20RunC%20and%20Kata%20Container%20Runtime.pdf)*
 - Performance analysis of KVM-based microVMs.pdf - *[Download](./Performance%20analysis%20of%20KVM-based%20microVMs.pdf)*
-- Performance and isolation analysis of RunC gVisor and Kata.pdf - *[Download](./Performance%20and%20isolation%20analysis%20of%20RunC%2C%20gVisor%20and%20Kata.pdf)*
+- Performance and isolation analysis of RunC gVisor and Kata.pdf - *[Download](./Performance%20and%20isolation%20analysis%20of%20RunC%20gVisor%20and%20Kata.pdf)*
   
 ## Virtualization
 
