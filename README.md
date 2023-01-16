@@ -24,7 +24,14 @@
 - Performance Analysis Between RunC and Kata Container Runtime.pdf - *[Download](./Performance%20Analysis%20Between%20RunC%20and%20Kata%20Container%20Runtime.pdf)*
 - Performance analysis of KVM-based microVMs.pdf - *[Download](./Performance%20analysis%20of%20KVM-based%20microVMs.pdf)*
 - Performance and isolation analysis of RunC gVisor and Kata.pdf - *[Download](./Performance%20and%20isolation%20analysis%20of%20RunC%20gVisor%20and%20Kata.pdf)*
-  
+
+### Android
+
+- Linux container solution for running Android applications on an automotive platform - *[Download](./Linux_cwontainer_solution_for_running_Android_applications_on_an_automotive_platform.pdf)*
+- Dynamic analysis with Android container Challenges - Solutions.pdf - *[Download](./Dynamic%20analysis%20with%20Android%20container%20Challenges.pdf)*
+- Condroid : A container based virtualization Soltion for Android- *[Download](./Condroid_A_Container-Based_Virtualization_Solution_Adapted_for_Android_Devices.pdf)*
+- A Lightweight Virtualization solution for Android Devices - *[Download](./A_Lightweight_Virtualization_Solution_for_Android_Devices.pdf)*
+
 ## Virtualization
 
 - A Comparison of Software and Hardware Techniques for x86 Virtualization.pdf - *[Download](./A%20Comparison%20of%20Software%20and%20Hardware%20Techniques%20for%20x86%20Virtualization.pdf)*
